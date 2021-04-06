@@ -1,0 +1,4 @@
+msiexec /uninstall {{BF9489ED-B077-4EA3-9A72-3AE1DC96E6CD}} /q UNINSTALLPASSWORD="123qweASD@BModal"
+
+Lista com chaves de registro
+https://support.symantec.com/us/en/article.tech247833.html
